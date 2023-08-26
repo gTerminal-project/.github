@@ -1,4 +1,4 @@
-# Terminal
+# gTerminal
 
 ... is a software to surf the web more conviniently. Get started by looking at our preview [here](https://terminal-center.github.io/terminal/)
 
