@@ -16,6 +16,10 @@ There are currently no other wikis.
 
 There are currently no other discussion rooms.
 
+## Matrix room
+
+You're invited to join our matrix room. [#gTerminal:mintux.de](https://matrix.to/#/#gTerminal:mintux.de)
+
 ## Credits for the whole project
 
 Our logo is based on Bootstraps `terminal-fill` icon which is licensed under a MIT License ([Bootstrap Icons on GitHub](https://github.com/twbs/icons)).
