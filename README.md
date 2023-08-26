@@ -15,9 +15,9 @@ There are currently no other wikis.
 
 There are currently no other discussion rooms.
 
-## Logo Credits
+## Credits for the whole project
 Our logo is based on Bootstraps `terminal-fill` icon which is licensed under a MIT License ([Bootstrap Icons on GitHub](https://github.com/twbs/icons)).
-Within the logo we are using the `Courier Prime` font which is licensed under a SIL Open Font License ([Courier Prime in GitHub](https://github.com/quoteunquoteapps/CourierPrime)).
+We are using the `Courier Prime` font which is licensed under a SIL Open Font License ([Courier Prime in GitHub](https://github.com/quoteunquoteapps/CourierPrime)).
 
 <details>
 <summary>Boostrap Icons MIT License</summary>
