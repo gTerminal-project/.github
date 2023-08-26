@@ -1,6 +1,7 @@
 # gTerminal
 
 ## Help
+
 To recieve help, please read the wiki [here](https://github.com/gTerminal-project/.github/wiki) for overall info.
 > See [other specialized wikis](#other-wikis)
 
@@ -16,6 +17,7 @@ There are currently no other wikis.
 There are currently no other discussion rooms.
 
 ## Credits for the whole project
+
 Our logo is based on Bootstraps `terminal-fill` icon which is licensed under a MIT License ([Bootstrap Icons on GitHub](https://github.com/twbs/icons)).
 <br>
 We are using the `Courier Prime` font which is licensed under a SIL Open Font License ([Courier Prime in GitHub](https://github.com/quoteunquoteapps/CourierPrime)).
@@ -44,6 +46,7 @@ We are using the `Courier Prime` font which is licensed under a SIL Open Font Li
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 	THE SOFTWARE.
 </details>
+
 <details>
 <summary>Courier Prime SIL Open Font License 1.1</summary>
 	Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).
