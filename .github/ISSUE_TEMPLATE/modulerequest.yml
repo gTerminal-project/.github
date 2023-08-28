@@ -1,0 +1,13 @@
+name: Module Request
+assignees:
+  - J0J0HA
+description: Request a module.
+labels: enhancement
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe what module you want to propose, which commands it should have and what they should do.
+      placeholder: |
+        It would be cool to have a module with a "blank" command, which opens "about:blank".
